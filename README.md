@@ -13,9 +13,6 @@ The purpose of this repository is to strengthen my understanding of C++, master 
 * Variables & Data Types
 * Operators
 * Conditional Statements
-* Loops
-* Functions
-* Arrays
 
 ### Data Structures & Algorithms
 
