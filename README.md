@@ -19,7 +19,8 @@ The purpose of this repository is to strengthen my understanding of C++, master 
 
 ### Data Structures & Algorithms
 
-* To be Updated Soon...
+* Arrays
+* Vectors
 
 ## 🎯 Goals
 
